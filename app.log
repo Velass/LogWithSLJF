@@ -1,0 +1,4 @@
+14:10:08.553 [main] INFO  com.tpunitaire.App - Bonjour Slf4J !
+14:10:08.558 [main] INFO  com.tpunitaire.App - Implementation Logback
+14:10:29.761 [main] INFO  com.tpunitaire.App - Bonjour Slf4J !
+14:10:29.765 [main] INFO  com.tpunitaire.App - Implementation Logback
